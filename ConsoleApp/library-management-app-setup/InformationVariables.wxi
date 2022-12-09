@@ -3,10 +3,10 @@
 	<?define CompanyName="ebc" ?>
 
 	<!-- Full version number to display -->
-	<?define VersionNumber="!(bind.FileVersion.libraryManagerApp.exe)" ?>
+	<?define VersionNumber="!(bind.FileVersion.ConsoleApp.exe)" ?>
 
 	<?define ProductName="library-manager-app"?>
-	<?define SourceFolder="C:\Users\ROG ZEPHYRUS\Desktop\Ödev\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug"?>
+	<?define SourceFolder="C:\Users\ROG ZEPHYRUS\Desktop\Ödev\ce103-hw3-eray-burak-cakir\ConsoleApp\ConsoleApp\bin"?>
 
 
 	<!-- The URL for add/remove programs -->

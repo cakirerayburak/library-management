@@ -1,6 +1,2 @@
-obj\Debug\Product.wixobj
 C:\Users\ROG ZEPHYRUS\Desktop\Ödev\ce103-hw3-eray-burak-cakir\ConsoleApp\library-management-app-setup\bin\Debug\library_management_app_setup.msi
 C:\Users\ROG ZEPHYRUS\Desktop\Ödev\ce103-hw3-eray-burak-cakir\ConsoleApp\library-management-app-setup\bin\Debug\library_management_app_setup.wixpdb
-obj\Debug\library-management-app-setup.wixproj.BindContentsFileListnull.txt
-obj\Debug\library-management-app-setup.wixproj.BindOutputsFileListnull.txt
-obj\Debug\library-management-app-setup.wixproj.BindBuiltOutputsFileListnull.txt

@@ -1,0 +1,3 @@
+C:\Users\ROG ZEPHYRUS\Desktop\Ödev\ce103-hw3-eray-burak-cakir\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\ROG ZEPHYRUS\Desktop\Ödev\ce103-hw3-eray-burak-cakir\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\ROG ZEPHYRUS\Desktop\Ödev\ce103-hw3-eray-burak-cakir\ConsoleApp\ConsoleApp\bin\Debug\Library_management_dll.dll

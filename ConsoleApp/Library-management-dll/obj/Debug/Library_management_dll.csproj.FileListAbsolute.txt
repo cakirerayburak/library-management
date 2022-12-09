@@ -1,0 +1,6 @@
+C:\Users\ROG ZEPHYRUS\Desktop\Ödev\ce103-hw3-eray-burak-cakir\ConsoleApp\Library-management-dll\bin\Debug\Library-management-dll.dll
+C:\Users\ROG ZEPHYRUS\Desktop\Ödev\ce103-hw3-eray-burak-cakir\ConsoleApp\Library-management-dll\bin\Debug\Library-management-dll.pdb
+C:\Users\ROG ZEPHYRUS\Desktop\Ödev\ce103-hw3-eray-burak-cakir\ConsoleApp\Library-management-dll\obj\Debug\Library_management_dll.csproj.AssemblyReference.cache
+C:\Users\ROG ZEPHYRUS\Desktop\Ödev\ce103-hw3-eray-burak-cakir\ConsoleApp\Library-management-dll\obj\Debug\Library_management_dll.csproj.CoreCompileInputs.cache
+C:\Users\ROG ZEPHYRUS\Desktop\Ödev\ce103-hw3-eray-burak-cakir\ConsoleApp\Library-management-dll\obj\Debug\Library-management-dll.dll
+C:\Users\ROG ZEPHYRUS\Desktop\Ödev\ce103-hw3-eray-burak-cakir\ConsoleApp\Library-management-dll\obj\Debug\Library-management-dll.pdb

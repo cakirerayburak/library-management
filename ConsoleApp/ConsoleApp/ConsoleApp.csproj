@@ -36,6 +36,12 @@
     <Reference Include="Library-management-dll">
       <HintPath>..\Library-management-dll\bin\Debug\Library-management-dll.dll</HintPath>
     </Reference>
+    <Reference Include="Library_management_dll">
+      <HintPath>..\Library-management-dll\bin\Debug\Library_management_dll.dll</HintPath>
+    </Reference>
+    <Reference Include="library_manager_dll">
+      <HintPath>..\..\..\..\..\..\..\LibraryManagementApplication\library-manager-dll\bin\Debug\library_manager_dll.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -51,6 +57,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

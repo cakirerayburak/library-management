@@ -5,7 +5,7 @@ VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{CCF8955C-8BB7-493D-8CFC-23705EA4D664}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library-management-dll", "Library-management-dll\Library-management-dll.csproj", "{A5246014-4514-41A3-BF74-196F9DB05A22}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library_management_dll.dll", "Library-management-dll\Library_management_dll.dll.csproj", "{A5246014-4514-41A3-BF74-196F9DB05A22}"
 EndProject
 Project("{930C7802-8A8C-48F9-8165-68863BCCD9DD}") = "library-management-app-setup", "library-management-app-setup\library-management-app-setup.wixproj", "{CE92711B-AD78-430E-825C-F548024C2926}"
 EndProject

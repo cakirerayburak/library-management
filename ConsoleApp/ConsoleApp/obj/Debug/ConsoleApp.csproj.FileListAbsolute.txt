@@ -31,3 +31,16 @@ C:\Users\ROG ZEPHYRUS\Desktop\Ödev\ConsoleApp\ConsoleApp\ConsoleApp\obj\Debug\C
 C:\Users\ROG ZEPHYRUS\Desktop\Ödev\ConsoleApp\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
 C:\Users\ROG ZEPHYRUS\Desktop\Ödev\ConsoleApp\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
 C:\Users\ROG ZEPHYRUS\Desktop\Ödev\ConsoleApp\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Users\ROG ZEPHYRUS\Desktop\Ödev\ce103-hw3-eray-burak-cakir\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\ROG ZEPHYRUS\Desktop\Ödev\ce103-hw3-eray-burak-cakir\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ROG ZEPHYRUS\Desktop\Ödev\ce103-hw3-eray-burak-cakir\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ROG ZEPHYRUS\Desktop\Ödev\ce103-hw3-eray-burak-cakir\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\ROG ZEPHYRUS\Desktop\Ödev\ce103-hw3-eray-burak-cakir\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\ROG ZEPHYRUS\Desktop\Ödev\ce103-hw3-eray-burak-cakir\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\ROG ZEPHYRUS\Desktop\Ödev\ce103-hw3-eray-burak-cakir\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+C:\Users\ROG ZEPHYRUS\Desktop\Ödev\ce103-hw3-eray-burak-cakir\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\ROG ZEPHYRUS\Desktop\Ödev\ce103-hw3-eray-burak-cakir\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Users\ROG ZEPHYRUS\Desktop\Ödev\ce103-hw3-eray-burak-cakir\ConsoleApp\ConsoleApp\bin\Debug\library_manager_dll.dll
+C:\Users\ROG ZEPHYRUS\Desktop\Ödev\ce103-hw3-eray-burak-cakir\ConsoleApp\ConsoleApp\bin\Debug\library_manager_dll.pdb
+C:\Users\ROG ZEPHYRUS\Desktop\Ödev\ce103-hw3-eray-burak-cakir\ConsoleApp\ConsoleApp\bin\Debug\Library_management_dll.dll
+C:\Users\ROG ZEPHYRUS\Desktop\Ödev\ce103-hw3-eray-burak-cakir\ConsoleApp\ConsoleApp\bin\Debug\Library_management_dll.pdb

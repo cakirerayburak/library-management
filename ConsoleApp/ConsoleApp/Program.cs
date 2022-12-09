@@ -5,6 +5,7 @@ using System.Security.Cryptography.X509Certificates;
 using System.Collections.Generic;
 using System.IO;
 
+
 namespace ConsoleApp1
 {
 
@@ -60,7 +61,7 @@ namespace ConsoleApp1
             logpassword = string.Empty;
 
 
-            Console.SetWindowSize(700, 500);
+            Console.SetWindowSize(300, 250);
 
 
             GUI.userint(40, 90, 2, 27);
@@ -127,7 +128,7 @@ namespace ConsoleApp1
             if ((logpassword.Equals(userpass)) && (logname.Equals(username)))
             {
                 Console.Clear();
-                Console.SetWindowSize(700, 500);
+                Console.SetWindowSize(300, 250);
 
                 GUI.userint(35, 95, 2, 27);
 
