@@ -1,0 +1,18 @@
+C:\Users\samet\OneDrive\Masaüstü\ce103-hw-erayy-vurak-cakirr\ConsoleApp\Library-management-dll\obj\Debug\Library-management-dll.csproj.AssemblyReference.cache
+C:\Users\samet\OneDrive\Masaüstü\ce103-hw-erayy-vurak-cakirr\ConsoleApp\Library-management-dll\obj\Debug\Library-management-dll.csproj.CoreCompileInputs.cache
+C:\Users\samet\OneDrive\Masaüstü\ce103-hw-erayy-vurak-cakirr\ConsoleApp\Library-management-dll\bin\Debug\Library-management-dll.dll
+C:\Users\samet\OneDrive\Masaüstü\ce103-hw-erayy-vurak-cakirr\ConsoleApp\Library-management-dll\bin\Debug\Library-management-dll.pdb
+C:\Users\samet\OneDrive\Masaüstü\ce103-hw-erayy-vurak-cakirr\ConsoleApp\Library-management-dll\obj\Debug\Library-management-dll.dll
+C:\Users\samet\OneDrive\Masaüstü\ce103-hw-erayy-vurak-cakirr\ConsoleApp\Library-management-dll\obj\Debug\Library-management-dll.pdb
+C:\Users\samet\OneDrive\Masaüstü\ce103-hw-erayy-vurak-cakirr\Library_manager-App\ConsoleApp\Library-management-dll\bin\Debug\Library-management-dll.dll
+C:\Users\samet\OneDrive\Masaüstü\ce103-hw-erayy-vurak-cakirr\Library_manager-App\ConsoleApp\Library-management-dll\bin\Debug\Library-management-dll.pdb
+C:\Users\samet\OneDrive\Masaüstü\ce103-hw-erayy-vurak-cakirr\Library_manager-App\ConsoleApp\Library-management-dll\obj\Debug\Library-management-dll.csproj.AssemblyReference.cache
+C:\Users\samet\OneDrive\Masaüstü\ce103-hw-erayy-vurak-cakirr\Library_manager-App\ConsoleApp\Library-management-dll\obj\Debug\Library-management-dll.csproj.CoreCompileInputs.cache
+C:\Users\samet\OneDrive\Masaüstü\ce103-hw-erayy-vurak-cakirr\Library_manager-App\ConsoleApp\Library-management-dll\obj\Debug\Library-management-dll.dll
+C:\Users\samet\OneDrive\Masaüstü\ce103-hw-erayy-vurak-cakirr\Library_manager-App\ConsoleApp\Library-management-dll\obj\Debug\Library-management-dll.pdb
+C:\Users\ROG ZEPHYRUS\Desktop\Ödev\ConsoleApp\ConsoleApp\Library-management-dll\bin\Debug\Library-management-dll.dll
+C:\Users\ROG ZEPHYRUS\Desktop\Ödev\ConsoleApp\ConsoleApp\Library-management-dll\bin\Debug\Library-management-dll.pdb
+C:\Users\ROG ZEPHYRUS\Desktop\Ödev\ConsoleApp\ConsoleApp\Library-management-dll\obj\Debug\Library-management-dll.csproj.AssemblyReference.cache
+C:\Users\ROG ZEPHYRUS\Desktop\Ödev\ConsoleApp\ConsoleApp\Library-management-dll\obj\Debug\Library-management-dll.csproj.CoreCompileInputs.cache
+C:\Users\ROG ZEPHYRUS\Desktop\Ödev\ConsoleApp\ConsoleApp\Library-management-dll\obj\Debug\Library-management-dll.dll
+C:\Users\ROG ZEPHYRUS\Desktop\Ödev\ConsoleApp\ConsoleApp\Library-management-dll\obj\Debug\Library-management-dll.pdb
